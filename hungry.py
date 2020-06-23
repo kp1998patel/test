@@ -5,3 +5,7 @@ if hungry == "yes"
     thirsty=input("are you thirsty")
     if thirsty=="yes":
         print("drink water")
+        
+ 
+ for(int i=0;i>4:i++)
+    print("I AM HAPPY ")
